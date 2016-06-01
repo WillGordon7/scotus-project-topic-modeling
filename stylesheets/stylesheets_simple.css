@@ -1,1 +1,8 @@
-body { margin: 60px auto; width: 70%; }
+body {
+  height: initial;
+  width: initial;
+}
+
+h1 {
+  font-family: 'Sans-Serif';
+}
