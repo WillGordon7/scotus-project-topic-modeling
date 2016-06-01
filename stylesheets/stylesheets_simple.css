@@ -1,8 +1,10 @@
 body {
-  margin: auto;
+  margin-top: 0px;
+  margin-bottom:auto;
+  margin-right: 100px;
+  margin-left: 30px;
 }
 
 h1 {
   font-family: 'Sans-Serif';
 }
-
