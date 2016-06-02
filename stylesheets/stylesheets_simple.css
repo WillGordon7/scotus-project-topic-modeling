@@ -1,17 +1,20 @@
 body {
-  margin: auto;
+  text-align: left; /*I think I need to fix this part*/
   height: initial;
   width: initial;
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 div.header{
-  
+  text-align: center;
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 ul {
 	list-style-type: none;
-	margin: 0;
-	padding: 0;
+	margin: auto;
+	padding: auto;
+	font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 li {
@@ -20,19 +23,15 @@ li {
 
 li a {
 	display: block;
-	color: white;
+	color: blue;
 	padding: 14px 16px;
 	text-align: center;
 }
 
-li a:hover {
-	background-color: #111;
-}
-
-h1 {
+/*h1 {
   text-align: center;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-}
+}*/
 
 aside#sidebar {
  float: right;
